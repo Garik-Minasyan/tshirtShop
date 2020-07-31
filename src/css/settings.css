@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.tshirtColor {
+  width: 285px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tshirtColor img {
+  width: 40px;
+  height: 40px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.inputs {
+  width: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 50px;
+}
+
+.lawerText {
+  margin-top: 10px;
+}
+
+h5 {
+  margin-top: 9px;
+  margin-bottom: 9px;
+  user-select: none;
+}
+
+.input {
+  margin-left: 55px;
+}
+
+.btn {
+  margin-top: 10px;
+  margin-left: 10px;
+}

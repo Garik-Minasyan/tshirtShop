@@ -1,0 +1,13 @@
+.dashboard {
+  width: 943px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.card {
+  height: 420px;
+  box-shadow: 2px 4px 5px 3px rgb(216, 212, 212);
+  text-align: center;
+}
+.dashboardDisplay {
+  margin-top: 50px;
+}

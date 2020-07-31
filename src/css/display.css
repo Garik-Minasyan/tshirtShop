@@ -1,0 +1,24 @@
+.imageTshirt {
+  width: 330px;
+  height: 310px;
+}
+
+.imgTshirt {
+  position: relative;
+}
+
+.mameText {
+  position: absolute;
+  top: 135px;
+  left: 193px;
+}
+
+.mameText p {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: white;
+  margin-left: 5px;
+}
+
+.card1 {
+  text-align: center;
+}
